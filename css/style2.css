@@ -2,7 +2,6 @@
     width: 811px; 
     margin-left: 100px;   
 }
-
 h1.content{
     display: block;
     font-weight: 600;
@@ -17,7 +16,6 @@ h1.content{
     letter-spacing: normal;
     font-family: "adelle-sans",Helvetica, sans-serif; 
 }
-
 h2.contn{
     display: block;
     width: 600px;
@@ -31,17 +29,15 @@ h2.contn{
     margin-bottom: 10px;
     font-family: "adelle-sans",Helvetica, sans-serif; 
 }
-
 a.head{
-   color: #e2127A;
-   text-decoration: none;
-   margin-right: 2px;
-   border-right: #000;
+    color: #e2127A;
+    text-decoration: none;
+    margin-right: 2px;
+    border-right: #000;
 }
 .head:hover{
-   color: #71093d;
+    color: #71093d;
 }
-
 h6.header{
     display: block;
     font-size: 16px;
@@ -58,9 +54,6 @@ h6.header{
     margin-top: 20px; 
     display: inline-block; 
 }
-
-
-
 .opaciti:link{
     background-color: #fff;
     margin-right: 25px;
@@ -68,7 +61,6 @@ h6.header{
     text-decoration: none;
     display: inline-block;
 }
-  
 .opaciti:hover {
     opacity: 0.75;
 }
@@ -76,7 +68,6 @@ h6.header{
     height: 22px;
     vertical-align: bottom;
 }
-
 .cont-p{
     margin-left: 100px;
     width: 740px;
@@ -98,15 +89,12 @@ h6.header{
     font-family: "adelle-sans",Arial, Helvetica, sans-serif;
     margin-bottom: 60px;
 }
-
 .linth2{
     color: #e2127A;
-
 }
 .linth2:hover{
     text-decoration: none;
 }
-
 .imgp{
     width: 740px;
     margin: 0 px;
@@ -123,7 +111,7 @@ h6.header{
     margin-bottom: 30px;
     font-size: 16px;
 }
-aside.cont-aside {
+aside.cont-aside{
     width: 332.9;
     height: 183.6;
     margin: 0px;
@@ -166,7 +154,6 @@ a.foot{
 li{
     padding: 8px;
 }
-
 ul{
     list-style-type: none;
     margin-bottom:20px;
@@ -181,7 +168,6 @@ p.end{
     margin-bottom: 10px;
     padding-top: 30px;
     border-top:0.1px solid #e7e7e8;
-    
 }
 p.next{
     font-family: 'Heroic','Arial Narrow',Helvetica,sans-serif;
@@ -204,7 +190,6 @@ iframe.foot{
     border-bottom:0.1px solid #e7e7e8;
     margin-bottom: 13px;
 }
-
 a.next:link, a.next:visited {
     background-color: #0000ff;
     color: #ffffff;
@@ -214,7 +199,6 @@ a.next:link, a.next:visited {
     display: inline-block;
     align-items: center;
   }
-  
   a.next:hover, a.next:active {
-    background-color: red;
+    background-color: #ff0000;
   }

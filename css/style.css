@@ -1,5 +1,4 @@
 .p-index {
-    
     font-family: sans-serif;
     font-size: 18px;
     line-height: 26px;
@@ -20,7 +19,6 @@
     background-color: #ffffff;
     margin-bottom: 20px;
     margin-top: 116px;
-
 }
 .h1-index{
     font-family: sans-serif;
@@ -32,7 +30,6 @@
     margin-left: 0px;
     padding-right: 100px;
 }
-
 .secondtitle{
     font-size: 21px;
     line-height: 26px;
@@ -49,8 +46,6 @@
     box-sizing: border-box;
     margin-left: 10px;
     margin-bottom: 20px;
-
-
 }
 .p-date{
     font-family: sans-serif;
@@ -58,16 +53,13 @@
     line-height: 26px;
     margin-right: auto;
     margin-bottom: 20px;
-    
     display: block;
     word-spacing: 2px;
-
 }
 a:link{
     color: #3EABE1;
     text-decoration: none;
 }
-
 .hr-index{
     margin-left:0px;
     margin-bottom: 30px;
@@ -77,24 +69,20 @@ a:link{
 .i-index{
     margin-left: 100px;
     margin-right: auto;
-  
 }
 div.fixed {
     width: 1050px;
     height: 80px;
     position: fixed;
     top: 0px;
-    background-color: white;
+    background-color:#ffffff;
     padding: 5px;
-    display:inline-block;
-    
+    display:inline-block;   
   }
-
 img.aling{
     margin-left: 320px;
     height: 74px;
 }
-
 h3.cap{
     color: #3EABE1;
     display: block;
@@ -112,8 +100,6 @@ ul.bar{
     padding: 13px 0;
     border-top: 1px solid #EDEDED;
     border-bottom: 1px solid #EDEDED;
-
-
 }
 li.bar1{
     padding-left: 15px;
@@ -121,7 +107,6 @@ li.bar1{
     border-right: 1px solid #Ededed;
     float: left;
 }
-
 li.bar3{
     padding-left: 15px;
     padding-right: 15px;
@@ -136,7 +121,6 @@ a.bar{
     font-weight: 600;
     font-family: "Roboto",sans-serif;
 }
-
 .bar:hover{
     color: #3EABE1;
 }
@@ -154,7 +138,6 @@ ul.foot{
     font-size: 20px;
     padding-left: 20px;
 }
-
 div.foot{
     padding: 0px;
     width: 700px;
@@ -162,7 +145,6 @@ div.foot{
     margin-left: 10px;
     margin-bottom: 20px;
 }
-
 a.foot:hover{
     text-decoration: underline;
 }
@@ -188,10 +170,8 @@ p.foot1{
     display: block;
     padding-bottom: 10px;
     border-bottom: 4px solid #eee;
-    box-sizing: content-box;
-    
+    box-sizing: content-box;   
 }
-
 a.tags{
     display: block;
     border-radius: 18px;
@@ -221,7 +201,6 @@ li.tags{
     padding-right: 10px;
     float: left;
 }        
-
 a.tags:hover{
     color: #ffffff;
     background-color: #3EABE1;
@@ -250,7 +229,6 @@ i.fas:hover{
 p.note{
     margin-right: 20px;
     opacity: 1000%;
-    
 }
 a.next:link, a.next:visited {
     background-color: #0000ff;
@@ -264,7 +242,6 @@ a.next:link, a.next:visited {
     top: -25px;
     align-items: center;
   }
-  
   a.next:hover, a.next:active {
-    background-color: red;
+      background-color: #ff0000;
   }
