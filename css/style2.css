@@ -1,0 +1,206 @@
+.h-gmc{
+    width: 811px; 
+    margin-left: 100px;   
+}
+
+h1.content{
+    display: block;
+    font-weight: 600;
+    text-align: left;
+    width: 1000px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 42px;
+    color: #000;
+    letter-spacing: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    font-family: "adelle-sans",Helvetica, sans-serif; 
+}
+
+h2.contn{
+    display: block;
+    width: 600px;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    font-size: 20px;
+    color: #6A6A6A;
+    margin-bottom: 10px;
+    font-family: "adelle-sans",Helvetica, sans-serif; 
+}
+
+a.head{
+   color: #e2127A;
+   text-decoration: none;
+   margin-right: 2px;
+   border-right: #000;
+}
+.head:hover{
+   color: #71093d;
+}
+
+h6.header{
+    display: block;
+    font-size: 16px;
+    color: #6A6A6A;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: 500;
+}
+.icons-links{
+    height: 27px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+    display: inline-block; 
+}
+
+
+
+.opaciti:link{
+    background-color: #fff;
+    margin-right: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+.opaciti:hover {
+    opacity: 0.75;
+}
+.share{
+    height: 22px;
+    vertical-align: bottom;
+}
+
+.cont-p{
+    margin-left: 100px;
+    width: 740px;
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    text-align: left;
+}
+.ptext{
+    color: #424242;
+    font-size: 18px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 300;
+    line-height: 26px;
+    word-spacing: 2px;
+    font-family: "adelle-sans",Arial, Helvetica, sans-serif;
+    margin-bottom: 60px;
+}
+
+.linth2{
+    color: #e2127A;
+
+}
+.linth2:hover{
+    text-decoration: none;
+}
+
+.imgp{
+    width: 740px;
+    margin: 0 px;
+    padding: 0px;
+}
+.pimage{
+    color: #626262;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom-color: #e7e7e8;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+aside.cont-aside {
+    width: 332.9;
+    height: 183.6;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    position: relative;
+}
+p.cont-aside{
+    width: 310px;
+    font-style: italic;
+    background-color: #fff;
+    line-height: 1;
+    color: #e2127A;
+    font-size: 22px;
+    text-align: left;
+    font-family: 'Heroic',Arial, Helvetica, sans-serif;
+    display: block;
+    font-weight: 600;
+    letter-spacing: 0.32px;
+    padding-top: 18px;
+    padding-right: 22.5px;
+    margin-bottom: 21.6px;
+    margin-top: 0px;
+    border-top:2px solid #424242;
+}
+div.cont-aside{
+    margin-left: 37.9px;
+    margin-bottom: 10px;
+    float: right;
+    position: relative;
+}
+a.foot{
+    text-decoration: none;
+    color: #e2127A;
+    font-size: 18px;
+    padding: 0;
+    margin-left: 0;
+    font-family: 'Heroic',Arial, Helvetica, sans-serif;
+}
+li{
+    padding: 8px;
+}
+
+ul{
+    list-style-type: none;
+    margin-bottom:20px;
+    padding: 0;
+}
+p.end{
+    font-family:Helvetica, sans-serif;
+    letter-spacing: 0.2px;
+    font-weight: 400;
+    font-size: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    border-top:0.1px solid #e7e7e8;
+    
+}
+p.next{
+    font-family: 'Heroic','Arial Narrow',Helvetica,sans-serif;
+    display: inline-block;
+    position: relative;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    line-height: normal;
+    text-transform: uppercase;
+    font-size: 30.4px;
+    color: #424242;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding: 12px 8px 0 0;
+    border-top:2px solid #424242;
+}
+iframe.foot{
+    padding-bottom: 50px;
+    border-bottom:0.1px solid #e7e7e8;
+    margin-bottom: 13px;
+}
