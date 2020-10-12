@@ -1,4 +1,4 @@
-.p-capital {
+.p-index {
     
     font-family: sans-serif;
     font-size: 18px;
@@ -22,7 +22,7 @@
     margin-top: 116px;
 
 }
-.h1-capital{
+.h1-index{
     font-family: sans-serif;
     font-weight: 700;
     color: #000;
@@ -52,7 +52,7 @@
 
 
 }
-.p-fecha-cap{
+.p-date{
     font-family: sans-serif;
     font-size: 14px;
     line-height: 26px;
@@ -68,13 +68,13 @@ a:link{
     text-decoration: none;
 }
 
-.hr-cap{
+.hr-index{
     margin-left:0px;
     margin-bottom: 30px;
     margin-top: 13px;
     height: 0.1px;
 }
-.vid-cap{
+.i-index{
     margin-left: 100px;
     margin-right: auto;
   
@@ -100,7 +100,7 @@ h3.cap{
     display: block;
     text-align: left;
 }
-ul.barra{
+ul.bar{
     list-style-type: none;
     margin: 0;
     overflow: hidden;

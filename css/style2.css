@@ -204,3 +204,17 @@ iframe.foot{
     border-bottom:0.1px solid #e7e7e8;
     margin-bottom: 13px;
 }
+
+a.next:link, a.next:visited {
+    background-color: #0000ff;
+    color: #ffffff;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+  }
+  
+  a.next:hover, a.next:active {
+    background-color: red;
+  }
